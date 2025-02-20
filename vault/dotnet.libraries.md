@@ -2,9 +2,14 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1734888660231
+updated: 1740069676037
 created: 1664308769136
 ---
+
+## CLIs
+
+- [Spectre.Console](https://github.com/spectreconsole/spectre.console): A .NET library that makes it easier to create beautiful console applications.
+- [System.CommandLine](https://github.com/dotnet/command-line-api): Command line parsing, invocation, and rendering of terminal output.
 
 ## Data & ETL
 
@@ -14,6 +19,7 @@ created: 1664308769136
 
 ## Databases
 
+- [DbUp](https://github.com/DbUp/DbUp): A .NET library that helps with deploying and managing changes to SQL databases.
 - [YesSql](https://github.com/sebastienros/yessql): A .NET document database interface for relational databases.
 
 ## Documentation
@@ -75,7 +81,7 @@ Supports both RFC3164 and RFC5424 message formats.
 
 ## Plotting & Charts
 
-- [ScottPlot](https://scottplot.net/): A free and open-source plotting library for .NET that makes it easy to interactively display large datasets. Line plots, bar charts, pie graphs, scatter plots, and more can be created with just a few lines of code.
+- [ScottPlot](https://github.com/scottplot/scottplot): A free and open-source plotting library for .NET that makes it easy to interactively display large datasets. Line plots, bar charts, pie graphs, scatter plots, and more can be created with just a few lines of code.
 
 ## Reactive Programming
 

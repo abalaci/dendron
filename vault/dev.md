@@ -2,9 +2,13 @@
 id: kygx0n3whew1nclpl9t2yez
 title: Programming
 desc: ''
-updated: 1731512275364
+updated: 1739546435632
 created: 1655244708709
 ---
+
+## Blogs
+
+- [Daniel Schroeder's Programming Blog](https://blog.danskingdom.com/)
 
 ## Paradigms
 
