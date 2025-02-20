@@ -2,7 +2,7 @@
 id: apeomt2qjju3zp75epvudcs
 title: Windows
 desc: ''
-updated: 1709117078801
+updated: 1739971871379
 created: 1661204646629
 ---
 
@@ -16,6 +16,7 @@ created: 1661204646629
 
 - [Official Documentation](https://learn.microsoft.com/en-us/windows/package-manager/)
 - [WinGet CLI on GitHub](https://github.com/microsoft/winget-cli)
+- [winstall](https://winstall.app/): A repository browser for Windows packages installed using `winget`.
 
 ## Tools
 
