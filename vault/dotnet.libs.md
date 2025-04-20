@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1740069676037
+updated: 1745172705969
 created: 1664308769136
 ---
 
@@ -86,7 +86,7 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Reactive Programming
 
 - [Reactive.Streams](https://github.com/reactive-streams/reactive-streams-dotnet): A standard for asynchronous stream processing with non-blocking backpressure in .NET.
-- [Rx.NET](https://github.com/dotnet/reactive): Reactive extensions for .NET.
+- [Rx.NET](https://github.com/dotnet/reactive): Reactive programming extensions for .NET.
 
 ## Search
 

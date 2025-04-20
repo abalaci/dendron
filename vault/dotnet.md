@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1734388790876
+updated: 1745172305908
 created: 1635852681091
 ---
 
@@ -17,19 +17,20 @@ created: 1635852681091
 
 ## Blogs
 
-- [.NET Escapades -- Andrew Lock](https://andrewlock.net/)
-- [Aaron on the Web -- Aaron Stannard](https://aaronstannard.com/)
-- [Ardalis -- Steve Smith](https://ardalis.com/blog)
-- [Code with Steve -- Steve Gordon](https://www.stevejgordon.co.uk/)
-- [Fabulous Adventures in Coding -- Eric Lippert](https://ericlippert.com/)
+- [.NET Escapades](https://andrewlock.net/), by Andrew Lock
+- [Aaron on the Web](https://aaronstannard.com/), by Aaron Stannard
+- [Ardalis](https://ardalis.com/blog), by Steve Smith
+- [Code with Steve](https://www.stevejgordon.co.uk/), by Steve Gordon
+- [Fabulous Adventures in Coding](https://ericlippert.com/), by Eric Lippert
 - [Jon Skeet's Coding Blog](https://codeblog.jonskeet.uk/)
-- [Michael's Coding Spot -- Michael Shpilt](https://michaelscodingspot.com/)
+- [Michael's Coding Spot](https://michaelscodingspot.com/), by Michael Shpilt
 - [NDepend Blog](https://blog.ndepend.com/)
 - [Scott Hanselman's Blog](https://www.hanselman.com/blog)
 
 ## Books
 
 - [C# in Depth](https://csharpindepth.com/), by Jon Skeet
+- [Introduction to Rx.NET](https://introtorx.com/), by Ian Griffiths and Lee Campbell
 - [Practical Debugging for .NET Developers](https://practicaldebugging.net/), by Michael Shpilt
 
 ## Major Breaking Changes
