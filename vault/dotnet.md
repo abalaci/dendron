@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1745172305908
+updated: 1749113923007
 created: 1635852681091
 ---
 
@@ -22,6 +22,7 @@ created: 1635852681091
 - [Ardalis](https://ardalis.com/blog), by Steve Smith
 - [Code with Steve](https://www.stevejgordon.co.uk/), by Steve Gordon
 - [Fabulous Adventures in Coding](https://ericlippert.com/), by Eric Lippert
+- [Jimmy Bogard's Blog](https://www.jimmybogard.com/)
 - [Jon Skeet's Coding Blog](https://codeblog.jonskeet.uk/)
 - [Michael's Coding Spot](https://michaelscodingspot.com/), by Michael Shpilt
 - [NDepend Blog](https://blog.ndepend.com/)

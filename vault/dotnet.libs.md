@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1745172705969
+updated: 1749113965094
 created: 1664308769136
 ---
 
@@ -60,6 +60,10 @@ that allows developers to express policies such as Retry, Circuit Breaker, Timeo
 - [CsvHelper](https://github.com/JoshClose/CsvHelper): A library that helps with reading and writing CSV files.
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress): A fully managed C# library to deal with many compression types and formats.
 
+## Infrastructure
+
+- [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks): Enterprise health checks for ASP.NET Core supporting widely used services and platforms.
+
 ## Logging
 
 - [Serilog.Sinks.SyslogMessages](https://github.com/IonxSolutions/serilog-sinks-syslog): A Serilog sink that logs events to remote syslog servers using both UDP and TCP,
@@ -90,6 +94,7 @@ Supports both RFC3164 and RFC5424 message formats.
 
 ## Search
 
+- [Elastic.Clients.Elasticsearch](https://github.com/elastic/elasticsearch-net): The official, strongly-typed, client library for working with Elasticsearch in .NET.
 - [Lucene.NET](https://github.com/apache/lucenenet/): A .NET port of the popular Apache Lucene open-source full-text search library.
 - [LunrCore](https://github.com/bleroy/lunr-core): A port of Lunr.js to .NET Core.
 
@@ -108,5 +113,6 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Testing
 
 - [AutoFake](https://github.com/Serg046/AutoFake): Mock any type members, including static and non-virtual ones.
+- [Moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet): A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [TUnit](https://github.com/thomhurst/TUnit): A modern, fast, and flexible .NET testing framework.
