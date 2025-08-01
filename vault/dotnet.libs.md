@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1749113965094
+updated: 1754078623524
 created: 1664308769136
 ---
 
@@ -13,9 +13,11 @@ created: 1664308769136
 
 ## Data & ETL
 
+- [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions): Bulk extensions for CRUD operations in Entity Framework Core.
 - [Etl.Net](https://github.com/paillave/Etl.Net): Mass data processing and ETL engine for .NET.
 - [LINQKit](https://github.com/scottksmith95/LINQKit): A free set of extensions for LINQ to SQL and Entity Framework power users.
 - [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis): Easy-to-use and high-performance libraries for data analysis and transformation.
+- [Npgsql](https://github.com/npgsql/npgsql): The ADO.NET data provider for PostgreSQL.
 
 ## Databases
 
@@ -26,9 +28,17 @@ created: 1664308769136
 
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting APIs built on ASP.NET Core.
 
+## Caching
+
+- [FusionCache](https://github.com/ZiggyCreatures/FusionCache): An easy to use, fast, and robust hybrid cache with advanced resiliency features.
+
 ## Cloud
 
 - [LocalStack.Client](https://github.com/localstack-dotnet/localstack-dotnet-client): A lightweight .NET client for LocalStack.
+
+## Code Analysis
+
+- [Sonar for .NET](https://github.com/SonarSource/sonar-dotnet): Static code analyzers for C# and VB.NET projects.
 
 ## Concurrency & Multithreading
 
@@ -113,6 +123,8 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Testing
 
 - [AutoFake](https://github.com/Serg046/AutoFake): Mock any type members, including static and non-virtual ones.
+- [AwesomeAssertions](https://github.com/AwesomeAssertions/AwesomeAssertions): An Apache 2.0-licensed fork of [FluentAssertions](https://github.com/fluentassertions/fluentassertions).
 - [Moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET.
+- [Shouldly](https://github.com/shouldly/shouldly): An assertion library that gives great error messages when the assertion fails, while being simple and terse.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet): A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [TUnit](https://github.com/thomhurst/TUnit): A modern, fast, and flexible .NET testing framework.
