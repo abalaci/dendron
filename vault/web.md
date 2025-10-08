@@ -2,7 +2,7 @@
 id: epeaq0sf7bp5w7cospgqvvo
 title: Web Development
 desc: ''
-updated: 1653151474343
+updated: 1755606343922
 created: 1651493525308
 ---
 
@@ -33,6 +33,10 @@ created: 1651493525308
 - [Primitive UI](https://taniarascia.github.io/primitive)
 - [Pure CSS](https://purecss.io)
 - [Tailwind CSS](https://tailwindcss.com)
+
+## Testing
+
+- [Playwright](https://playwright.dev/): A framework for Web testing and automation that allows testing Chromium, Firefox and WebKit with a single API.
 
 ## Resources
 

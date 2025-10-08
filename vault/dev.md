@@ -2,13 +2,15 @@
 id: kygx0n3whew1nclpl9t2yez
 title: Programming
 desc: ''
-updated: 1739546435632
+updated: 1754576321651
 created: 1655244708709
 ---
 
 ## Blogs
 
+- [Alex Kladov's Blog](https://matklad.github.io/)
 - [Daniel Schroeder's Programming Blog](https://blog.danskingdom.com/)
+- [Phil Eaton's Blog](https://notes.eatonphil.com/)
 
 ## Paradigms
 

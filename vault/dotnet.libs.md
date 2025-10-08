@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1754078623524
+updated: 1755606470345
 created: 1664308769136
 ---
 
@@ -13,6 +13,7 @@ created: 1664308769136
 
 ## Data & ETL
 
+- [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET): .NET bindings and ADO.NET provider for DuckDB.
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions): Bulk extensions for CRUD operations in Entity Framework Core.
 - [Etl.Net](https://github.com/paillave/Etl.Net): Mass data processing and ETL engine for .NET.
 - [LINQKit](https://github.com/scottksmith95/LINQKit): A free set of extensions for LINQ to SQL and Entity Framework power users.
@@ -108,6 +109,10 @@ Supports both RFC3164 and RFC5424 message formats.
 - [Lucene.NET](https://github.com/apache/lucenenet/): A .NET port of the popular Apache Lucene open-source full-text search library.
 - [LunrCore](https://github.com/bleroy/lunr-core): A port of Lunr.js to .NET Core.
 
+## Security
+
+- [DevSkim](https://github.com/microsoft/DevSkim): A set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
+
 ## Serialization
 
 - [MessagePack](https://github.com/neuecc/MessagePack-CSharp): An extremely fast MessagePack serializer for C#.
@@ -125,6 +130,7 @@ Supports both RFC3164 and RFC5424 message formats.
 - [AutoFake](https://github.com/Serg046/AutoFake): Mock any type members, including static and non-virtual ones.
 - [AwesomeAssertions](https://github.com/AwesomeAssertions/AwesomeAssertions): An Apache 2.0-licensed fork of [FluentAssertions](https://github.com/fluentassertions/fluentassertions).
 - [Moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET.
+- [Playwright for .NET](https://github.com/microsoft/playwright-dotnet): .NET version of the Playwright testing and automation library.
 - [Shouldly](https://github.com/shouldly/shouldly): An assertion library that gives great error messages when the assertion fails, while being simple and terse.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet): A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [TUnit](https://github.com/thomhurst/TUnit): A modern, fast, and flexible .NET testing framework.
