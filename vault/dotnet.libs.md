@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1755606470345
+updated: 1761039571468
 created: 1664308769136
 ---
 
@@ -13,20 +13,20 @@ created: 1664308769136
 
 ## Data & ETL
 
+- [DbUp](https://github.com/DbUp/DbUp): A .NET library that helps with deploying and managing changes to SQL databases.
 - [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET): .NET bindings and ADO.NET provider for DuckDB.
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions): Bulk extensions for CRUD operations in Entity Framework Core.
 - [Etl.Net](https://github.com/paillave/Etl.Net): Mass data processing and ETL engine for .NET.
 - [LINQKit](https://github.com/scottksmith95/LINQKit): A free set of extensions for LINQ to SQL and Entity Framework power users.
 - [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis): Easy-to-use and high-performance libraries for data analysis and transformation.
 - [Npgsql](https://github.com/npgsql/npgsql): The ADO.NET data provider for PostgreSQL.
-
-## Databases
-
-- [DbUp](https://github.com/DbUp/DbUp): A .NET library that helps with deploying and managing changes to SQL databases.
+- [NRedisStack](https://github.com/redis/NRedisStack): A Redis Stack client for .NET.
+- [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis/): A general purpose Redis client for .NET.
 - [YesSql](https://github.com/sebastienros/yessql): A .NET document database interface for relational databases.
 
 ## Documentation
 
+- [NSwag](https://github.com/RicoSuter/NSwag): A Swagger/OpenAPI tool chain for .NET and ASP.NET Core.
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting APIs built on ASP.NET Core.
 
 ## Caching
@@ -92,6 +92,8 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Performance
 
 - [Benchmark.NET](https://github.com/dotnet/BenchmarkDotNet): A powerful .NET library for benchmarking.
+- [Perfolizer](https://github.com/AndreyAkinshin/perfolizer): A .NET performance analysis toolkit,
+used as a statistical engine by Benchmark.NET.
 - [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial): .NET managed sockets wrapper using the new Pipelines API.
 
 ## Plotting & Charts
