@@ -2,9 +2,13 @@
 id: TPJzHuR1eliPxlkDoCzkB
 title: Knowledge
 desc: ''
-updated: 1753823113586
+updated: 1762208493450
 created: 1635535682130
 ---
+
+## Learning
+
+- [freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/)
 
 ## Resources
 
@@ -14,3 +18,8 @@ created: 1635535682130
 - [Roam Articles](https://roamresearch.com/#/app/help/page/cGQjOo9hq)
 - [The Zettelkasten Method](https://zettelkasten.de/introduction/)
 - [The PARA Method](https://fortelabs.co/blog/para/)
+
+## Tools
+
+- [Dendron](https://dendron.so/): An open-source, local-first, Markdown-based, note-taking tool.
+- [Obsidian](https://obsidian.md/): The free and flexible app for private thoughts.

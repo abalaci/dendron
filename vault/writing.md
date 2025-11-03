@@ -2,7 +2,7 @@
 id: 9t2cbpqc1vofuqkwlmbttky
 title: Writing
 desc: ''
-updated: 1761033209858
+updated: 1762207673619
 created: 1653836688221
 ---
 
@@ -26,4 +26,5 @@ created: 1653836688221
 - [Docusaurus](https://docusaurus.io/): Easy to maintain, open-source documentation websites.
 - [Jekyll](https://jekyllrb.com/): Simple, blog-aware, static sites.
 - [mdBook](https://rust-lang.github.io/mdBook/): A command line tool to create books with Markdown.
+- [Mermaid](https://mermaid.js.org/): Diagramming and charting tool that renders Markdown-inspired text definitions.
 - [Typst](https://typst.app/): A new markup-based typesetting system that is powerful and easy to learn.
