@@ -2,7 +2,7 @@
 id: epeaq0sf7bp5w7cospgqvvo
 title: Web Development
 desc: ''
-updated: 1755606343922
+updated: 1761228367662
 created: 1651493525308
 ---
 
@@ -12,6 +12,7 @@ created: 1651493525308
 - [Chromatic](https://www.chromatic.com): A cloud service for Storybook that automates workflows for UI feedback, visual regression testing, and documentation.
 - [CodePen](https://codepen.io): An online code editor and front-end development environment.
 - [jsDelivr](https://www.jsdelivr.com): A free and open source content delivery network (CDN) for npm packages.
+- [npm Docs](https://docs.npmjs.com/): Documentation for the `npm` registry, website, and command-line interface.
 - [Responsively](https://responsively.app): A modified web browser that helps with responsive web development.
 - [Storybook](https://storybook.js.org): An open source tool for building UI components and pages in isolation.
 
