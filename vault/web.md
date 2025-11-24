@@ -2,7 +2,7 @@
 id: epeaq0sf7bp5w7cospgqvvo
 title: Web Development
 desc: ''
-updated: 1761228367662
+updated: 1764020689407
 created: 1651493525308
 ---
 
@@ -24,7 +24,7 @@ created: 1651493525308
 ## Frameworks & Libraries
 
 - [Bootstrap](https://getbootstrap.com)
-- [Bulma](https://bulma.io)
+- [Bulma](https://bulma.io): A modern CSS framework based on Flexbox.
 - [Font Awesome](https://fontawesome.com/search?m=free)
 - [Fomantic UI](https://fomantic-ui.com)
 - [KaTeX](https://katex.org)
