@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1761039571468
+updated: 1762811765133
 created: 1664308769136
 ---
 
@@ -10,6 +10,11 @@ created: 1664308769136
 
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console): A .NET library that makes it easier to create beautiful console applications.
 - [System.CommandLine](https://github.com/dotnet/command-line-api): Command line parsing, invocation, and rendering of terminal output.
+
+## CMS
+
+- [Umbraco](https://github.com/umbraco/Umbraco-CMS): A free and open source .NET content management system helping you deliver delightful digital experiences.
+- [uSync](https://github.com/KevinJump/uSync): A database syncing tool for Umbraco CMS.
 
 ## Data & ETL
 
