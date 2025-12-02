@@ -2,7 +2,7 @@
 id: cjk8rvm17udhe76byyuy2uo
 title: Miscellaneous
 desc: ''
-updated: 1734897350239
+updated: 1762209277907
 created: 1653837097627
 ---
 
@@ -24,6 +24,7 @@ created: 1653837097627
 ## Blogs & Sites
 
 - [Antarctica Blog](https://brr.fyi/)
+- [The GitLab Handbook](https://handbook.gitlab.com/)
 - [Perrin Remonté: Cartography & Photography](https://www.perrinremonte.com/fraccueil-1)
 
 ## Tools

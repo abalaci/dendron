@@ -2,9 +2,15 @@
 id: sszg7y07l89hfjpsm2o3w6h
 title: Zig
 desc: ''
-updated: 1762512699213
+updated: 1764622989364
 created: 1761298038767
 ---
+
+## Blogs
+
+- [Alex Kladov's Blog](https://matklad.github.io/)
+- [Andrew Kelley's Blog](https://andrewkelley.me/)
+- [Loris Cro's Blog](https://kristoff.it/)
 
 ## Books
 
@@ -20,4 +26,4 @@ created: 1761298038767
 ## References
 
 - [Official Website](https://ziglang.org/)
-- [Source](https://github.com/ziglang/zig)
+- [Source](https://codeberg.org/ziglang/zig)

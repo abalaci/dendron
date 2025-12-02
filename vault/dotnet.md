@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1749113923007
+updated: 1763027641468
 created: 1635852681091
 ---
 
@@ -14,6 +14,7 @@ created: 1635852681091
 - [Build Resilient HTTP Apps: Key Development Patterns](https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience)
 - [Code-style Rule Options](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options)
 - [Introduction to Resilient App Development](https://learn.microsoft.com/en-us/dotnet/core/resilience)
+- [Understanding the Worst .NET Vulnerability Ever: Request Smuggling and CVE-2025-55315](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
 
 ## Blogs
 
@@ -43,7 +44,7 @@ created: 1635852681091
 - [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api)
 - [.NET Framework Source Browser](https://referencesource.microsoft.com/)
 - [.NET Source Browser](https://source.dot.net/)
-- [CodeMaze](https://code-maze.com/), a .NET-oriented about simplicity and pragmatism.
+- [CodeMaze](https://code-maze.com/), a .NET-oriented blog about simplicity and pragmatism.
 - [Official .NET Documentation](https://docs.microsoft.com/en-us/dotnet)
 
 ## Tools
