@@ -2,7 +2,7 @@
 id: sszg7y07l89hfjpsm2o3w6h
 title: Zig
 desc: ''
-updated: 1764622989364
+updated: 1770374374116
 created: 1761298038767
 ---
 
@@ -19,7 +19,8 @@ created: 1761298038767
 ## Learning
 
 - [Official Zig Learning Resources](https://ziglang.org/learn/)
-- [Zig Programming Language Intro](https://www.youtube.com/watch?v=x51j6qulmIo)
+- [Learning Zig](https://www.openmymind.net/learning_zig/), by Karl Seguin
+- [Zig Guide](https://zig.guide/), by Sobeston
 - [Zig Track on Exercism](https://exercism.org/tracks/zig)
 - [Ziglings](https://codeberg.org/ziglings/exercises/#ziglings)
 
