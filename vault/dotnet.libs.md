@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1762811765133
+updated: 1774790951161
 created: 1664308769136
 ---
 
@@ -130,7 +130,8 @@ used as a statistical engine by Benchmark.NET.
 
 ## UI
 
-- [Avalonia](https://avaloniaui.net/): An open source framework for building beautiful, cross-platform applications from a single .NET codebase.
+- [Avalonia](https://avaloniaui.net/): An open source UI framework for building beautiful, cross-platform applications from a single .NET codebase.
+- [WebView](https://github.com/OutSystems/WebView): An Avalonia/WPF control that wraps CefGlue and lets you embed Chromium in .NET apps.
 
 ## Testing
 
