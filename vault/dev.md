@@ -2,7 +2,7 @@
 id: kygx0n3whew1nclpl9t2yez
 title: Programming
 desc: ''
-updated: 1754576321651
+updated: 1777148384922
 created: 1655244708709
 ---
 
@@ -10,7 +10,12 @@ created: 1655244708709
 
 - [Alex Kladov's Blog](https://matklad.github.io/)
 - [Daniel Schroeder's Programming Blog](https://blog.danskingdom.com/)
+- [Mitchell Hashimoto's Blog](https://mitchellh.com/writing)
 - [Phil Eaton's Blog](https://notes.eatonphil.com/)
+
+## Books
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc), by Al Sweigart
 
 ## Paradigms
 
