@@ -2,9 +2,14 @@
 id: o8ds440ntpj5e2oq0qeplq9
 title: AI & LLMs
 desc: ''
-updated: 1761040625315
+updated: 1777540258234
 created: 1761039681236
 ---
+
+## Model Context Protocol (MCP)
+
+- [About Model Context Protocol (MCP)](https://docs.github.com/en/copilot/concepts/context/mcp)
+- [Developer's Guide to AI Agent Protocols](https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/)
 
 ## Tools
 
